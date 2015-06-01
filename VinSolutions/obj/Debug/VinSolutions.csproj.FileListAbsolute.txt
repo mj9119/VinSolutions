@@ -1,0 +1,4 @@
+C:\aspnet4_cs\VinSolutions\VinSolutions\bin\VinSolutions.dll
+C:\aspnet4_cs\VinSolutions\VinSolutions\bin\VinSolutions.pdb
+C:\aspnet4_cs\VinSolutions\VinSolutions\obj\Debug\VinSolutions.dll
+C:\aspnet4_cs\VinSolutions\VinSolutions\obj\Debug\VinSolutions.pdb
